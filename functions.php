@@ -13,7 +13,13 @@
  * @link http://codex.wordpress.org/Plugin_API
  *
  */
-
+.home .category-annonces{background:#000000}
+.home .category-nouveaute{background:#000000}
+.home .category-traduction{background:#8B0C92}
+.home .category-interview{background:#8B0C92}
+.home .category-gazette{background:#8B0C92}
+.home .category-classement{background:#8B0C92}
+.home .category-review{background:#8B0C92}
 /**
  * Load the parent style.css file
  *
